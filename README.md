@@ -3,7 +3,7 @@ Hey Buddy Welcome!
 
 This repository contain...
 
-Soft Computing/Fuzzy Logic Algorithm implementation using Python [pdf file contain all the assignment statement]
+<b>Soft Computing/Fuzzy Logic Algorithm implementation using Python [pdf file contain all the assignment statement]</b>
 
 Fuzzy Set
 
